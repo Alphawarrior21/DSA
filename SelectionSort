@@ -1,0 +1,8 @@
+Space Complexity of Selection Sort
+The space complexity of Selection Sort is O(1).
+
+This is because we use only constant extra space such as:
+
+2 variables to enable swapping of elements.
+One variable to keep track of smallest element in unsorted array.
+Hence, in terms of Space Complexity, Selection Sort is optimal as the memory requirements remain same for every input.
