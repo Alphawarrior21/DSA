@@ -1,11 +1,13 @@
-Space Complexity of Selection Sort
-The space complexity of Selection Sort is O(1).
+Time Complexity of Bubble Sort :: O(n^2)
+
+Space Complexity of Bubble Sort
+The space complexity of Bubble Sort is O(1).
 
 This is because we use only constant extra space such as:
 
 2 variables to enable swapping of elements.
 One variable to keep track of smallest element in unsorted array.
-Hence, in terms of Space Complexity, Selection Sort is optimal as the memory requirements remain same for every input.
+Hence, in terms of Space Complexity, Bubble Sort is optimal as the memory requirements remain same for every input.
 
 
 
